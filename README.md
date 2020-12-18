@@ -1,5 +1,7 @@
-# Tugas-UAS-Kelompok9-1SIMB
-Anggota Kelompok:
+Mata kuliah : Teknik Pemograman
+Dosen pengampu : Fredian Simanjuntak, S.Kom
+Judul proyek : Website Kuis (Tugas UAS Semester Ganjil)
+Anggota kelompok 9 1SIMB :
 1.Agus Yanto (2031089)
 2.Attlantha Valencia Simbar (2031077)
 3.Freddy Santoso (2031104)
